@@ -1,2 +1,2 @@
-# Resume-CV-Design-N19
+# cvkoko
 How to create the Resume/CV Design using HTML and CSS
